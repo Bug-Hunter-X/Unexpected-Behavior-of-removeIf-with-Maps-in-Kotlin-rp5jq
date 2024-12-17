@@ -1,0 +1,3 @@
+This repository demonstrates an uncommon Kotlin code error related to the `removeIf` function when used with `Map` objects. The `removeIf` function behaves differently when used with `List` and `Map` objects.  The example highlights this discrepancy and provides a solution to clarify the behavior and prevent potential errors. 
+
+The `bug.kt` file shows the unexpected behavior, while `bugSolution.kt` demonstrates the correct and expected way to use `removeIf` with maps.
